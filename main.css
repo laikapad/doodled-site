@@ -138,6 +138,21 @@ hr {
 	padding-top: 1vh;
 }
 
+#rocket-sketch{
+    top: 22vw;
+    left: 83.5vw;
+}
+#stick-figure-sketch{
+    top: 50.075vw;
+    left: 1vw;
+}
+
+.sketch{
+    position: absolute;
+    display: block;
+    width: 15vw;
+}
+
 .fa {
   	padding: 1.25vw;
   	width: 5vh;
